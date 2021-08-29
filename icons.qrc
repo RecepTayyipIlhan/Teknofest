@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>enterprise.png</file>
+    <file>4170461 (1) (1).png</file>
+    <file>4170461 (1).png</file>
+    <file>big-data.png</file>
+    <file>big-data.png</file>
+    <file>map.png</file>
+    <file>user.png</file>
+    <file>customer.png</file>
+  </qresource>
+</RCC>

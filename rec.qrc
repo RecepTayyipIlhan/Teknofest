@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="imageess">
+    <file>login_ui.jpg</file>
+  </qresource>
+</RCC>

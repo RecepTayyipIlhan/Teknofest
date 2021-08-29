@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "autism-band",
+  "private_key_id": "0833fd2b3c28923398f1eb2a255fe92d804878b3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdnPm3FselkNEN\nTR5z250Ci4S7iSgv7c4IxW+ftPYNgZRshHK4IDF0qhohfKPf087RLT3HHOGsIpUz\njWCpIXKKyWGWFq1TZeRKprL76PUK3Cc0jjV9LahNDCv7nHlNSjgFMxvvLJ9GkS33\nWrN5gB4dAprMwlDGHn/iAGu6CDSC+pVhMm7x7V+wbMOU87EeGUi/rzxNS1jwyGlc\npDBzi2MzwMJvt5oRo4fFA/7vJviAhOMy/TEGI5edS8Cj+llVqa/4rbUDL/rhvR2u\nshZVD6yMN8/vZPqi79OoLu6SdsmkiV2jenn6vdijQGexCawrog7tG5pudS6QtUm1\nb3AS2+NBAgMBAAECggEAJan2bo8uBF2X51LPfSY03f/TJzF+ff2Y57Wul/6Zcd7O\nRiRcea2Pw+5GMkxjqMAnwwrJoYRAVW8qMliNib0pbwrym/gtUSmfJUuyp8oijIbR\ng5icJZ68gjTvacAZqKOcwXlWKpCCO03EK0DsdJNuHsaZkWa6AK4XJz2sgJcnXUj+\nWLxuJmwI0hIrhHK246JwY9kE0m6HFOAB/VI4Fxb83Gds7xYuGz22T4QQrxVC3bIt\nqyBYW4OtVyvHTsErm1OWuuQO/D/WOBdACV+FOsht0XqebuINt/BeIEePZFotQpUL\nKlF1KEQ7gvZHjl4PgbwpEF5CoM0jZmun6HZEIiJiNQKBgQDLXBPy4+gJBsV45Srv\nA5a5YwlsSq84tonYP77xfoekgqwoeOo53M54clPF1e+2r9KL0ZbR5JSKKK6c8lRp\nV54YXN+mWU2qy3uXOQ+4/s5YEFwKrHrMYfWrDgwidMTe8cXI3awQtZrf6RC24JkN\ncYPsOtak3ZCiRdJHCrZWNuzUbwKBgQDGaXCxMvoWmYURudVbER8wshEl4vD4qa0J\noQkvTv/8bOlcHhSkhvWQTuf+VLvX04YaKJA+NjyBhFp4oxvFtm3EdIMDZVzzpkrO\n0IbxIrRVQOw7lZYqwX2dYtdlpGmGczy2Lb4SzW0Oi+WZwVvHzwe2LkRz21Z6jDCA\nxua68ht7TwKBgDiRNmNcDhFkts14QccWoniTGe3roG4QKKvkn4Khha23Q5hGejD6\nQNy0QKVJa1LP+as289MS2FbOFjRGHEDpRGrWesfVE4us6oYYM01sY42Pj2rQq5/q\np+GbGLkE7jZt3myPbOuA+MHMHQAh3bEloGK3wzk9AJyC+4kTa8DzqlE1AoGAYfv+\nYDQpl3GXasqYWBHbkmPN3iT2FgdNYhz5+TgNaS6sDAb68MmJigu9vDdCUPKwHkj7\n+w0z0k53k24RsBFIoiVb8hhj0BvGg94tVfZqklOuljpoX5MQouIGN7b7Oh+80sdC\nP+zdN7rU15rK5aETUOAGhCTEz15eMaqIlbgs5DcCgYEAouL45OQPfQioR4MxR+uS\nDfqXDhv5h3PaWAK8YNkgiteoiJMejOA8dCNlZg6cCh5HB+mNtS29q23Zf/JJ9YnY\nfU/GIxjf6+DL75Z1DQmFfqC9O0zbz5ErXj68srKG3GTBacIixdjnMvyPvrBgK/Rp\nhzSCAbp7LUku2UWcYX2Pk8Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-qa5po@autism-band.iam.gserviceaccount.com",
+  "client_id": "106810879121618830965",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-qa5po%40autism-band.iam.gserviceaccount.com"
+}
